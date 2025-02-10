@@ -1,5 +1,6 @@
 import { useState } from "react";
 import './index.css'
+import Button from './Button;
 
 const initialFriends = [
   {
